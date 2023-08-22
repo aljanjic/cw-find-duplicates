@@ -15,12 +15,7 @@ Examples
 
 ## Backlog
 
-- ⚠ "[1, 2, 3, 4, 5] should return []"
-- ⚠ "[] should return []"
-- ⚠ "['no', 'duplicates', 'here'] should return []"
-- ⚠ "[1, 2, 3, 4, 3] should return [3]"
-- ⚠ "[1, 2, 3, 3, 2, 1] should return [3, 2, 1]"
-- ⚠ "[1, 2, 1, 2, 1, 2, 1] should return [1, 2]"
-- ⚠ "[1, 2, 3, 4, '3'] should return []"
-- ⚠ "['1', 2, 3, 3, '2', 1] should return [3]"
-- ⚠ "['zut', 'alors', 1, 2, 4, 4, 3, 3, '1', 5, 3, 'zut'] should return [4, 3, 'zut']"
+- ✅ "[1, 2, 3, 4, 5] should return []"
+- ✅ "[1, 2, 3, 3, 2, 1] should return [3, 2, 1]"
+- ✅ "[1, 2, 3, 4, '3'] should return []"
+- ✅ "['zut', 'alors', 1, 2, 4, 4, 3, 3, '1', 5, 3, 'zut'] should return [4, 3, 'zut']"

@@ -1,8 +1,6 @@
 function duplicates(arr) {
 
 
-  const duplicates = arr => [...new Set(arr.filter((el, i) => i !== arr.indexOf(el)))];
-
   let x = [];
   let y = [];
 
